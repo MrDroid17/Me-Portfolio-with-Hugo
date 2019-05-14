@@ -6,11 +6,11 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Sobhit kumar"
+  subtitle    = "Software developer, Android developer"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "My Portfolio"
+  description = "Software developer, Android developer"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -19,7 +19,7 @@ paginate        = 6
   linkedinName = "sobhit-kumar"
   githubName = "mrdroid17"
 
-  logo = "hugo-logo.png"
+  logo = ""
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
