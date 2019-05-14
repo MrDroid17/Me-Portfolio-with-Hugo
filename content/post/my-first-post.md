@@ -3,6 +3,8 @@ title: "My First Posts"
 date: 2019-05-14T13:13:33+05:30
 draft: false
 image: "apple_blur.jpg"
+tags: ["golang"]
+categories: ["life"]
 ---
 
 

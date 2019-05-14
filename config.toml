@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Sobhit kumar"
   subtitle    = "Software developer, Android developer"
 
-  cover       = "My Portfolio"
+  cover       = "space.jpg"
   description = "Software developer, Android developer"
   metaDescription = ""
   googleAnalytics = ""
@@ -24,11 +24,11 @@ paginate        = 6
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  author = "Sobhit Kumar"
+  authorAvatar = "profile_pic.jpg"
+  authorLocation = "Pune, Maharashtra"
+  authorWebsite = "https://mrdroid17.github.io"
+  authorDescription = "Passionate, Self motivated android developer"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -49,8 +49,8 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "Github"
-  url = "https://github.com/mrdroid17"
+  name = "Life"
+  url = "/categories/life"
   weight = 99
 
 [[menu.main]]
